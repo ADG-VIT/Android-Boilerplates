@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">RecyclerViewDemo</string>
+    <string-array name="moviesnames">
+        <item>"Movie 1"</item>
+        <item>"Movie 2"</item>
+        <item>"Movie 3"</item>
+        <item>"Movie 4"</item>
+        <item>"Movie 5"</item>
+        <item>"Movie 6"</item>
+        <item>"Movie 7"</item>
+        <item>"Movie 8"</item>
+        <item>"Movie 9"</item>
+
+    </string-array>
+
+    <string-array name="description">
+        <item>"BEST MOVIES OF TIME"</item>
+        <item>"BEST MOVIES OF TIME"</item>
+        <item>"BEST MOVIES OF TIME"</item>
+        <item>"BEST MOVIES OF TIME"</item>
+        <item>"BEST MOVIES OF TIME"</item>
+        <item>"BEST MOVIES OF TIME"</item>
+        <item>"BEST MOVIES OF TIME"</item>
+        <item>"BEST MOVIES OF TIME"</item>
+        <item>"BEST MOVIES OF TIME"</item>
+
+    </string-array>
+</resources>
